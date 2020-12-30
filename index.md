@@ -15,14 +15,13 @@
 
 # Works
 - [GitHub](GitHubのURL)
-- [Qiita](QiitaのURL)
 - 作った作品
   - [作品1](作品1のURL)
   - [作品2](作品2のURL)
 
 # Contact
 - [Mail](mailto:koume138@gmail.com)
-- [Mail](https://twitter.com/shim705)
+- [Twitter](https://twitter.com/shim705)
 
 # History
 - 家業に従事,経理担当
