@@ -22,6 +22,7 @@
 
 # Contact
 - [Mail](mailto:koume138@gmail.com)
+- [Mail](https://twitter.com/shim705)
 
 # History
 - 家業に従事,経理担当
