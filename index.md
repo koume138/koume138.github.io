@@ -1,4 +1,4 @@
-
+<iframe src="https://www.openprocessing.org/sketch/1050767/embed/" width="400" height="300"></iframe>
 # About
 自己紹介
 
@@ -16,8 +16,6 @@
 
 # Works
 - [GitHub](GitHubのURL)
-<iframe src="https://www.openprocessing.org/sketch/1050767/embed/" width="400" height="300"></iframe>
-- [openprocessing/sketch](https://www.openprocessing.org/sketch/1050767/embed/)
 
 # Contact
 - [Mail](mailto:koume138@gmail.com)
